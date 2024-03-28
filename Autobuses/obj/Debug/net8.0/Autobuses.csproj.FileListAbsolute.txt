@@ -1,0 +1,14 @@
+C:\Users\Angel\Desktop\Clase\Autobuses\bin\Debug\net8.0\Autobuses.exe
+C:\Users\Angel\Desktop\Clase\Autobuses\bin\Debug\net8.0\Autobuses.deps.json
+C:\Users\Angel\Desktop\Clase\Autobuses\bin\Debug\net8.0\Autobuses.runtimeconfig.json
+C:\Users\Angel\Desktop\Clase\Autobuses\bin\Debug\net8.0\Autobuses.dll
+C:\Users\Angel\Desktop\Clase\Autobuses\bin\Debug\net8.0\Autobuses.pdb
+C:\Users\Angel\Desktop\Clase\Autobuses\obj\Debug\net8.0\Autobuses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\Clase\Autobuses\obj\Debug\net8.0\Autobuses.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\Clase\Autobuses\obj\Debug\net8.0\Autobuses.AssemblyInfo.cs
+C:\Users\Angel\Desktop\Clase\Autobuses\obj\Debug\net8.0\Autobuses.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\Clase\Autobuses\obj\Debug\net8.0\Autobuses.dll
+C:\Users\Angel\Desktop\Clase\Autobuses\obj\Debug\net8.0\refint\Autobuses.dll
+C:\Users\Angel\Desktop\Clase\Autobuses\obj\Debug\net8.0\Autobuses.pdb
+C:\Users\Angel\Desktop\Clase\Autobuses\obj\Debug\net8.0\Autobuses.genruntimeconfig.cache
+C:\Users\Angel\Desktop\Clase\Autobuses\obj\Debug\net8.0\ref\Autobuses.dll
